@@ -9,7 +9,7 @@
 - Write a test to ensure function sorts as expected 
 
 ## Approach & Efficiency
-- o(n^2), no matter what, the function will go through all digits in the array, multiple time, each time comparing it to the interger before it. 
+- nlogn, no matter what, the function will go through all digits in the array, multiple time, each time comparing it to the interger before it. 
 
 ## Solution
 - (Blog Article/Walkthrough)[./BLOG.md]
